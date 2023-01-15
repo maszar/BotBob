@@ -1,0 +1,42 @@
+# Pierwszy bot
+# Osobisty bot - Bob
+
+bot_name = "Bob"
+print("Hej jestem bot", bot_name)
+
+
+
+text = input("Co mam zrobić?")
+
+#if warunek:
+ #   Blok1
+#elif warunek2:
+  #  Blok2
+ # else warunek3:
+   # Blok3
+
+   if text == matma:
+   # Blok1
+
+a = int(input("podaj a: "))
+b = int(input("podaj b: "))
+
+a = 10
+b = 4
+c = a + b
+
+print("a + b =", a + b)
+print("a - b =", a - b)
+print("a/b = ", a / b)
+print("a // b = ", a // b)
+
+  elif text == imię:
+   # Blok2
+   user_name = input("Jak masz na imię?")
+
+print("Cześć", user_name, "miło mi Cię poznać!")
+
+  else 
+    print("Nie wiem co zrobić")
+
+
